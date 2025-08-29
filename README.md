@@ -19,7 +19,7 @@ WalletWatch is a Python script that fetches Bitcoin wallet transaction data from
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ScribeAegis/WalletWatch.git
+   git clone https://github.com/j4gwire/WalletWatch.git
 
 ## Usage
 Run the script using Python:
